@@ -5,7 +5,7 @@ The goal of theis project is to have an hands use of [HTTP](https://developer.mo
 The mini-project was completed by:
 
 - [Xarri Jorge](https://github.com/xarrijorge)
-- [Sumaer Jolly](https://githhub.com/samaerjolly)
+- [Sumaer Jolly](https://githhub.com/sumaerjolly)
 
 
 The Project details are below;
